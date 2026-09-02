@@ -1,1 +1,1 @@
-print("Hola, Creando un repositorio con Git")
+print("Actividad ssh mediante un Script Bash")
