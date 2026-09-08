@@ -1,1 +1,1 @@
-print("Actividad ssh mediante un Script Bash")
+print('Modulo desarrollado por compañero')
